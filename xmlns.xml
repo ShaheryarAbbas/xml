@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aptech>
+    <a:teacher xmlns:a="cpism">
+        <a:id>10203</a:id>
+        <a:name>Javed</a:name>
+        <a:age>25</a:age>
+    </a:teacher>
+    <b:teacher xmlns:b="dism">
+        <b:id>21224</b:id>
+        <b:name>Iqbal</b:name>
+        <b:age>32</b:age>
+    </b:teacher>
+</aptech>
