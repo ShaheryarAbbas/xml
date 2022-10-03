@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <parent>
+        <id>Fruits</id>
+            <fsibling>Apple</fsibling>
+            <ssibling>Banana</ssibling>
+            <tsibling>Orange</tsibling>
+    </parent>
+    <parent>
+        <id>Cars</id>
+        <fsibling>Honda</fsibling>
+        <ssibling>Corolla</ssibling>
+        <tsibling>Toyota</tsibling>
+    </parent>
+</root>
