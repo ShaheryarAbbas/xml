@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="file.xsl" type="text/xsl"?>
+<bank>
+    <acc>
+        <id>1000</id>
+        <name>Ali</name>
+        <email>Ali@gmail.com</email>
+    </acc>
+    <acc>
+        <id>1323</id>
+        <name>Majid</name>
+        <email>Majid@gamil.com</email>
+    </acc>
+    <acc>
+        <id>2343</id>
+        <name>Hussain</name>
+        <email>Hussain@gmail.com</email>
+    </acc>
+</bank>
